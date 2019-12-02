@@ -2,3 +2,7 @@
     text-align: center;
     font-family: verdana;
 }
+.iframe {
+    margin: 0 auto;
+    display: block;
+}
