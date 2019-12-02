@@ -6,3 +6,13 @@
     margin: 0 auto;
     display: block;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    font-family: arial;
+    color: black;
+    text-align: center;
+ }
