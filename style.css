@@ -27,3 +27,6 @@ body {
 .center {
     text-align: center;
 }
+.middlefinger {
+    background-image: url("./middlefinger.png")
+}
