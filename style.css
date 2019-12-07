@@ -1,3 +1,10 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+html {
+    cursor: url('./cursor.png') 4 12, auto;
+}
 .header-center {
     text-align: center;
     font-family: verdana;
@@ -28,5 +35,8 @@ body {
     text-align: center;
 }
 .middlefinger {
-    background-image: url("./middlefinger.png")
+    background-image: url("./middlefinger.png");
+    height: 100%;
+    width: 100%;
+    z-index: 100;
 }
